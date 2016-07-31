@@ -2,7 +2,10 @@
 Chrome Extension allowing to run [HeliumCSS](https://github.com/geuis/helium-css) within your browser.  
   
 All bugs concerning results should be reported on the original helium-css repo. 
-
+  
+## Release version  
+See the button over the code. The CRX is there. 
+ 
 ## Features
 All good helium-css features packed within a Chrome extension.  
 It allows to see unused CSS in your final css files. More details on HeliumCSS page.   
